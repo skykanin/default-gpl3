@@ -1,4 +1,4 @@
-(defproject default-gpl3/lein-template "0.1.0"
+(defproject default-gpl3/lein-template "0.2.0"
   :description "Default library template description"
   :url "https://github.com/skykanin/default-gpl3"
   :license {:name "GNU GPLv3+"
