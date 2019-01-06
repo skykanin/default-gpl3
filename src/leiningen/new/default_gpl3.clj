@@ -15,4 +15,4 @@
              ["test/{{sanitized}}/core.clj" (render "core_test.clj" data)]
              ["project.clj" (render "project.clj" data)]
              ["LICENSE.md" (render "LICENSE.md" data)]
-             ["gitignore" (render ".gitignore" data)])))
+             [".gitignore" (render "gitignore" data)])))
