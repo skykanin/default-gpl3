@@ -1,4 +1,4 @@
-(defproject default-gpl3/lein-template "0.1.0-SNAPSHOT"
+(defproject default-gpl3/lein-template "0.1.0"
   :description "Default library template description"
   :url "http://example.com/"
   :license {:name "GNU GPLv3+"
